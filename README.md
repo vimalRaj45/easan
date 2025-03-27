@@ -1,2 +1,2 @@
 # vsgrps
-proj easan
+project  easan
